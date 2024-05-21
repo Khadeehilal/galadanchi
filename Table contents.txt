@@ -1,0 +1,45 @@
+BASICS
+Setting up all required tools
+
+
+1.Variables
+2.Data types
+3.mathematical operators
+4.Getting input from the user
+5.conditional statements
+6.Function and parameter
+
+1.Variables
+it's a container for assigning value
+
+2.Data types
+String
+Number
+Bool
+Sequence
+
+STRING
+It contains characters/words
+
+NUMBER
+-integer
+-floating point
+
+
+BOOL
+-true
+-false
+
+SEQUENCE
+list
+tuple
+Set
+dictionary
+
+3.mathematical operators
+-Arithmetic operators
+-Assignment operators
+
+4.Getting input from the user
+
+5.conditional statements
